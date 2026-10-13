@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.app/
+*.framework/
+*.dylib
+*.mobileprovision
+*.p12
+*.cer
+*.xcresult/
+DerivedData/
+*.legacy-device-bridge/
